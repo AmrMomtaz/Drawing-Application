@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<java version="15.0.1" class="java.beans.XMLDecoder">
+ <object class="eg.edu.alexu.csd.oop.draw.cs23.drawing.model.Line">
+  <void property="id">
+   <int>7</int>
+  </void>
+  <void property="linewidth">
+   <int>6</int>
+  </void>
+  <void property="strokeStyle">
+   <string>#222F3D</string>
+  </void>
+  <void property="type">
+   <string>line</string>
+  </void>
+  <void property="x1">
+   <int>436</int>
+  </void>
+  <void property="x2">
+   <int>442</int>
+  </void>
+  <void property="y1">
+   <int>177</int>
+  </void>
+  <void property="y2">
+   <int>21</int>
+  </void>
+ </object>
+</java>

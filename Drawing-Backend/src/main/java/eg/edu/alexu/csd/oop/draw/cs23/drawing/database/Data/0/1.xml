@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<java version="15.0.1" class="java.beans.XMLDecoder">
+ <object class="eg.edu.alexu.csd.oop.draw.cs23.drawing.model.Ellipse">
+  <void property="fillStyle">
+   <string>#1CA085</string>
+  </void>
+  <void property="id">
+   <int>2</int>
+  </void>
+  <void property="linewidth">
+   <int>6</int>
+  </void>
+  <void property="raduisX">
+   <int>78</int>
+  </void>
+  <void property="raduisY">
+   <int>44</int>
+  </void>
+  <void property="strokeStyle">
+   <string>#222F3D</string>
+  </void>
+  <void property="type">
+   <string>ellipse</string>
+  </void>
+  <void property="x">
+   <int>145</int>
+  </void>
+  <void property="y">
+   <int>77</int>
+  </void>
+ </object>
+</java>

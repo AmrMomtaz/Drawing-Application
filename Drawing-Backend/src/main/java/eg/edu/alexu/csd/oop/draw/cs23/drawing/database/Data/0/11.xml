@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<java version="15.0.1" class="java.beans.XMLDecoder">
+ <object class="eg.edu.alexu.csd.oop.draw.cs23.drawing.model.Rectangle">
+  <void property="fillStyle">
+   <string>#2980B9</string>
+  </void>
+  <void property="height">
+   <int>258</int>
+  </void>
+  <void property="id">
+   <int>12</int>
+  </void>
+  <void property="linewidth">
+   <int>6</int>
+  </void>
+  <void property="strokeStyle">
+   <string>#222F3D</string>
+  </void>
+  <void property="type">
+   <string>rectangle</string>
+  </void>
+  <void property="width">
+   <int>376</int>
+  </void>
+  <void property="x">
+   <int>206</int>
+  </void>
+  <void property="y">
+   <int>231</int>
+  </void>
+ </object>
+</java>
